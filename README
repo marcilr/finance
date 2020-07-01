@@ -1,0 +1,30 @@
+README
+Created Wed 01 Jul 2020 02:46:19 PM AKDT
+Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+utilities/
+  Utilities
+  ssh://git@github.com/marcilr/utilities.git
+
+benefits/
+  State of Alaska and PERS benefits
+  ssh://git@github.com/marcilr/benefits.git
+
+finance.txt
+  Finance
+
+links.txt
+  Finance related links
+
+manifest
+  Manifest file for use by resync script
+  
+passive-income.txt
+  Passive income
+
+utilities/
+  Utilities
+
