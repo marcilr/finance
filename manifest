@@ -32,3 +32,5 @@
 # Source                                                  Target
 # ------------------------------------------------------------------
 ssh://git@github.com/marcilr/benefits.git                 benefits
+ssh://git@github.com/marcilr/forex.git                    forex
+ssh://git@github.com/marcilr/utilities.git                utilities
