@@ -1,0 +1,11 @@
+#.gitignore
+# Created Thu 09 Jul 2020 02:00:37 PM AKDT
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore
+#
+.gitignore
+benefits/
+forex/
+mortgage/
+utilities/
