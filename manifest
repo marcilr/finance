@@ -33,4 +33,5 @@
 # ------------------------------------------------------------------
 ssh://git@github.com/marcilr/benefits.git                 benefits
 ssh://git@github.com/marcilr/pfd.git                      pfd
+ssh://git@github.com/marcilr/ssa.git                      ssa
 ssh://git@github.com/marcilr/utilities.git                utilities
